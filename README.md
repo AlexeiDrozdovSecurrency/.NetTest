@@ -8,7 +8,9 @@ Here is what we would like you to do:
 3. Refactor the existing code to make it easier to maintain, scale and extend. 
 
 ## General overview
-
+fsdfadsfdsa
+fas
+fadsf
 * This application is going to be heavy loaded so it should scale out very well. As such, resources should be used efficiently. 
 * You may notice that the code is quite error-prone in certain places. Think about possible ways of improvement.
 * The code should never leave the database in a corrupted state.
